@@ -4,7 +4,7 @@ title: "HFT Algorithm Prototype"
 version: "0.1.0"
 date-released: "2025-11-30"
 authors:
-  - family-names: "Sp"
+  - family-names: "Spolitak"
     given-names: "Sofiya"
     # orcid: "https://orcid.org/0000-0000-0000-0000"   # optional
 repository-code: "https://github.com/SofiyaSp/hft-algorithm"
