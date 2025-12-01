@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "HFT Algorithm Prototype"
+version: "0.1.0"
+date-released: "2025-11-30"
+authors:
+  - family-names: "Sp"
+    given-names: "Sofiya"
+    # orcid: "https://orcid.org/0000-0000-0000-0000"   # optional
+repository-code: "https://github.com/SofiyaSp/hft-algorithm"
+license: MIT
+abstract: "A fixed-point based HFT trading algorithm prototype combining EMA and book imbalance logic, intended for FPGA implementation as part of a capstone project."
+keywords:
+  - high-frequency trading
+  - FPGA
+  - algorithmic trading
+  - financial software
+type: software
